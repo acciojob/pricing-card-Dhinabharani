@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#center{
+	 background-color: #F6F6F6;
+  padding: 2.5rem 2rem;
+  box-shadow: 0 4px 20px #E2E2E2; 
+  border-radius: 4px;
+  text-align: center;
+  width: 320px;
+}
+#main{
+ display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #FAFAFA;
+}
+div img{
+	width:100%;
+	max-width:260px;
+	height:150px;
+	object-fit:cover;
+}
+p{
+	font-size: 1.1rem;
+  line-height: 1.4;
+}
+.btn{
+	border:1px solid ;
+	border-radius:18px;
+	background-color:#FE625A;
+	color:white;
+	width:80px;
+	height:30px;
+}
