@@ -16,8 +16,7 @@
   background-color: #FAFAFA;
 }
 div img{
-	width:100%;
-	max-width:260px;
+	width:260px;
 	height:150px;
 	object-fit:cover;
 }
